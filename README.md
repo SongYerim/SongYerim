@@ -76,8 +76,9 @@ Computer Science Student at <a href="https://www.dongduk.ac.kr/kor/main.do">Dong
         <img src="https://img.shields.io/badge/visualstudio code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white">
         <img src="https://img.shields.io/badge/eclipse ide-2C2255?style=for-the-badge&logo=eclipseide&logoColor=white"> 
         <img src="https://img.shields.io/badge/Andoid Studio-3DDC84?style=for-the-badge&logo=android studio&logoColor=white">
-        <img src="https://img.shields.io/badge/intellij idea-000000?style=for-the-badge&logo=android intellijidea&logoColor=white">
-        <img src="https://img.shields.io/badge/vmware idea-607078?style=for-the-badge&logo=android vmware&logoColor=white">
+        <img src="https://img.shields.io/badge/IntelliJ Idea-000000?style=for-the-badge&logo=intellijidea&logoColor=white">
+        <img src="https://img.shields.io/badge/vmware-607078?style=for-the-badge&logo=vmware&logoColor=white">
+        <img src="https://img.shields.io/badge/googlecolab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white">
     </div><br>
         <!-- Others -->
     <p><strong>Others</strong></p>
