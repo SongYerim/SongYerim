@@ -33,7 +33,7 @@ Computer Science Student at <a href="https://www.dongduk.ac.kr/kor/main.do">Dong
 ## 📫 Contact 📫
 <div style="display:flex; flex-direction:row;">
     <a href="mailto:yerim0307@gmail.com">
-        <img src="https://img.shields.io/badge/yerim0307@gmail.com-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"> 
+        <img src="https://img.shields.io/badge/gmail.com-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"> 
     </a>
 </div>
 <br>
